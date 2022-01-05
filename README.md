@@ -10,12 +10,15 @@ This week's Challenge, was to refactor an existing webpage to make it accessible
 * Alt text added next to all images meeting accessibility standards
 * CSS restructured and condensed
 
-## GitHub Repo and Website Link & Screenshot
+## GitHub Repo and Website Link
 
 [Link to GitHub repo](https://github.com/adambowers09/CodeRefactor-Horiseon)
 
 [Link to website](https://adambowers09.github.io/CodeRefactor-Horiseon/)
 
+## Screenshot
+
+![screenshot of application about my page](./assets/images/screencapture-02Challenge.png)
 
 
 - - -
