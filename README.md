@@ -1,6 +1,6 @@
 # CodeRecfactor-Horiseon
 
-This week's Challenge, was to refactor an existing webpage to make it accessible and to improve Horiseon's homepage.  Code Refactoring included cleaning up the old code with semantics HTML elements, meeting accessiblity standards, improved logical structure of styling and positioning.  None of the changes i completed effecting the orginal website in anyway.
+This week's Challenge, was to refactor an existing webpage to make it accessible and to improve Horiseon's homepage.  Code Refactoring included cleaning up the old code with semantics HTML elements, meeting accessiblity standards, improved logical structure of styling and positioning.  None of the changes i completed changed the orginal website in anyway.
 
 
 ## Updates
@@ -9,8 +9,9 @@ This week's Challenge, was to refactor an existing webpage to make it accessible
 * Updated index.html with HTML semantics
 * Alt text added next to all images meeting accessibility standards
 * CSS restructured and condensed
+* Made the Header "Sticky"
 
-## GitHub Repo and Website Link
+## GitHub Repo & Website Link
 
 [Link to GitHub repo](https://github.com/adambowers09/CodeRefactor-Horiseon)
 
